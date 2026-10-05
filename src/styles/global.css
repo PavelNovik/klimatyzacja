@@ -1538,6 +1538,11 @@ textarea {
   font-size: 0.78rem;
   margin-bottom: 12px;
 }
+.job__salary {
+  margin-top: 8px;
+  color: var(--cyan-text);
+  font-size: 1.05rem;
+}
 .job ul {
   display: grid;
   gap: 6px;

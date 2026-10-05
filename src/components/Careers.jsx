@@ -17,6 +17,7 @@ export default function Careers() {
               <article key={j.title} className="card job" data-reveal style={{ '--d': `${i * 80}ms` }}>
                 <span className="job__type mono">{j.type}</span>
                 <h3>{j.title}</h3>
+                {j.salary && <p className="job__salary mono">{j.salary}</p>}
                 <ul>
                   {j.points.map((p) => (
                     <li key={p}>{p}</li>
