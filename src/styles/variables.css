@@ -1,0 +1,36 @@
+/* «Холодный климат»: лёд, глубокий петроль, циан — и тёплый оранжевый «кофе / жара» */
+:root {
+  --ice: #eef4f7;
+  --ice-2: #e2edf2;
+  --paper: #ffffff;
+  --navy: #0b2a3c;
+  --navy-2: #123b53;
+  --navy-3: #1b4d69;
+  --ink: #0f2533;
+  --muted: #4f6a7a;
+  --line: #d2e0e7;
+  --cyan: #16b8d9;
+  --cyan-text: #0a7a94;
+  --cyan-soft: #d7f2f8;
+  --warm: #e0702f;
+  --warm-d: #b8521a;
+  --warm-soft: #fcebdf;
+  --good: #1f9d6b;
+
+  --hot-cold: linear-gradient(90deg, #e0702f 0%, #f0a243 30%, #9ed9e8 70%, #16b8d9 100%);
+
+  --f-head: 'Exo 2', 'Segoe UI', system-ui, sans-serif;
+  --f-body: 'Commissioner', 'Segoe UI', system-ui, sans-serif;
+  --f-mono: 'Roboto Mono', ui-monospace, Consolas, monospace;
+
+  --r-lg: 26px;
+  --r: 18px;
+  --r-sm: 12px;
+  --shadow: 0 1px 2px rgb(11 42 60 / 0.06), 0 12px 32px -12px rgb(11 42 60 / 0.18);
+  --shadow-lg: 0 30px 60px -24px rgb(11 42 60 / 0.35);
+
+  --gutter: clamp(16px, 4vw, 40px);
+  --max: 1240px;
+  --header-h: 76px;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}

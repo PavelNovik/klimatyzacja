@@ -1,0 +1,17 @@
+{
+  "hero": { "src": "https://images.unsplash.com/photo-1625047509248-ec889cbff17f", "author": "Kate Ibragimova", "user": "kateibragimova", "width": 2200 },
+  "gauges": { "src": "https://images.unsplash.com/photo-1694532438941-06bb0d95dae5", "author": "Jonathan Castañeda", "user": "jonathecreator", "width": 1000, "params": "h=760&fit=crop" },
+  "diag": { "src": "https://images.unsplash.com/photo-1734244814318-32ca98dcd6be", "author": "Michael Lock", "user": "milo_photo", "width": 1000, "params": "h=760&fit=crop" },
+  "climate": { "src": "https://images.unsplash.com/photo-1778938525731-0a254548f58f", "author": "Luca Freddi", "user": "fresco97", "width": 1000, "params": "h=760&fit=crop" },
+  "compressor": { "src": "https://images.unsplash.com/photo-1749223673543-3c9c9100c172", "author": "Joel Timothy", "user": "toeljimothy", "width": 1000, "params": "h=760&fit=crop" },
+  "radiator": { "src": "https://images.unsplash.com/photo-1760804462190-82832c8eb582", "author": "Erik Mclean", "user": "introspectivedsgn", "width": 1000, "params": "h=760&fit=crop" },
+  "vent": { "src": "https://images.unsplash.com/photo-1542399204-b8dd4af5113d", "author": "Olav Tvedt", "user": "olav_tvedt", "width": 1200, "params": "h=900&fit=crop" },
+  "v-car": { "src": "https://images.unsplash.com/photo-1625047509168-a7026f36de04", "author": "Kate Ibragimova", "user": "kateibragimova", "width": 900, "params": "h=700&fit=crop" },
+  "v-truck": { "src": "https://images.unsplash.com/photo-1695222833131-54ee679ae8e5", "author": "Artem Balashevsky", "user": "abalashevsky", "width": 900, "params": "h=700&fit=crop" },
+  "v-bus": { "src": "https://images.unsplash.com/photo-1756723701257-46513cd36fc1", "author": "Msganaw Wogaso", "user": "msgnw", "width": 900, "params": "h=700&fit=crop" },
+  "v-agro": { "src": "https://images.unsplash.com/photo-1691088107567-5034cb97d3ea", "author": "Arvid Høidahl", "user": "arvidh", "width": 900, "params": "h=700&fit=crop" },
+  "coffee": { "src": "https://images.unsplash.com/photo-1579992357154-faf4bde95b3d", "author": "Nathan Dumlao", "user": "nate_dumlao", "width": 1000, "params": "h=1200&fit=crop" },
+  "workshop": { "src": "https://images.unsplash.com/photo-1625047509252-ab38fb5c7343", "author": "Kate Ibragimova", "user": "kateibragimova", "width": 1000, "params": "h=1200&fit=crop" },
+  "fleet": { "src": "https://images.unsplash.com/photo-1587813369290-091c9d432daf", "author": "Markus Winkler", "user": "markuswinkler", "width": 1400, "params": "h=900&fit=crop" },
+  "career": { "src": "https://images.unsplash.com/photo-1677938438599-a55528c41b2c", "author": "Remco Guijs", "user": "indall", "width": 1000, "params": "h=1200&fit=crop&crop=faces" }
+}
