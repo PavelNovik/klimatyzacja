@@ -9,8 +9,8 @@ export const brand = {
   unp: '000000000', // TODO: УНП
   // Боевой адрес сайта — для canonical, sitemap и Schema.org (на Vercel подставляется домен проекта)
   siteUrl: __SITE_URL__ || 'https://klimat-sluck.by',
-  phone: '+375 (29) 000-00-00', // TODO
-  viber: '+375290000000', // TODO: номер Viber без пробелов
+  phone: '+375 (33) 666-66-22',
+  viber: '+375336666622',
   telegram: 'klimat_sluck', // TODO: ник Telegram без @
   email: 'info@klimat-sluck.by', // TODO
   street: 'ул. Гагарина', // TODO: уточнить дом
