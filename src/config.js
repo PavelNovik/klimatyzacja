@@ -6,7 +6,7 @@ export const brand = {
   name: 'Климат-Сервис',
   fullName: 'Климат-Сервис — заправка и ремонт автокондиционеров в Слуцке',
   owner: 'ИП Вечер Сергей Леонидович',
-  unp: '000000000', // TODO: УНП
+  unp: '691869723',
   // Боевой адрес сайта — для canonical, sitemap и Schema.org (на Vercel подставляется домен проекта)
   siteUrl: __SITE_URL__ || 'https://klimat-sluck.by',
   phone: '+375 (33) 666-66-22',
